@@ -1,0 +1,79 @@
+  <!-- Header div containing nav bar starting  -->
+  <div class="navbar-fixed color header">
+  <nav>
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo"><span style="color: orange; font-family: 'Contrail One', cursive;">&nbsp; 10 Tendulkar</span></a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li class="active"><a href="#!/about">&nbsp; About</a></li>
+        <li><a href="#!/stats">&nbsp; Stats</a></li>
+        <li><a href="#!">
+                &nbsp;<img style="margin-top: 20%;" src="Images/home.svg" alt="">
+            </a></li>
+      </ul>
+      <ul id="nav-mobile" class="left hide-on-large-only">
+        <li><a href="#!">
+                &nbsp;<img style="margin-top: 20%;" src="Images/home.svg" alt="">
+            </a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+      <div class="row">
+          <div class="col l6 m6 s8 offset-l7 center-align quotation">
+              <h4> " {{quote}} "</h4>
+          </div>
+      </div>
+  </div>
+  </div>
+<!-- Header div ending -->
+
+     <div class="container">
+        <div class="row">
+            <div class="col l12 s12 m12">
+                <h5 class="body">{{intro}}</h5>
+            </div>
+        </div>    
+     </div>       
+
+  <div class="aboutBody secondDiv">
+      <div class="container">
+      <div class="row">
+          <div class="col l6 m6 s8 quotation1">
+              <h4> " {{quote1}} "</h4>
+          </div>
+      </div>
+      </div>
+  </div>
+
+     <div class="container">
+        <div class="row">
+            <div class="col l12 s12 m12">
+                <table class="bordered">
+                    <thread>
+                        <tr>
+                            <th data-field = "awardName">Name</th>
+                            <th data-field = "awardValue">Record</th>
+                        </tr>
+                    </thread>
+                    <tbody>
+                            <tr ng-repeat="object in records">
+                                <td>{{object.awardName}}</td>
+                                <td>{{object.awardValue}}</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>    
+     </div>       
+    <div class="aboutBody">
+    <div class="thirdAboutDiv">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 m6 s8 offset-l7 center-align quotation">
+              <h4> " {{quote2}} "</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

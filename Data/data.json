@@ -1,0 +1,24 @@
+{
+    "quote1" : "I hate losing and cricket being my first love, once I enter the ground it's a different zone altogether and that hunger for winning is always there.",
+    "quote2" : "We did not lose to a team called India, we lost to a man called Sachin",
+    "quote3" : "He has been in form longer than some of our guys have been alive",
+    "quote4" : "I have seen God, He bats for India at number 4 in Tests",
+    "quote5" : "You get him out and half the battle is won.",
+    "quote6" : "Commit all your crimes when Sachin is batting. They will go unnoticed for even the lord is busy watching him. ",
+
+    "Intro" : "Sachin Ramesh Tendulkar was born on 24 April 1973 is a former Indian cricketer and captain, widely regarded as one of the                greatest batsmen of all time. He took up cricket at the age of eleven, made his Test debut on 15 November 1989               against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India                    internationally for close to twenty-four years. He is the only player to have scored one hundred international               centuries, the first batsman to score a double century in a One Day International, the holder of the record for              the number of runs in both ODI and Test cricket, and the only player to complete more than 30,000 runs in                    international cricket. In 2002, just halfway through his career, Wisden Cricketers' Almanack ranked him the                  second greatest Test batsman of all time, behind Don Bradman, and the second greatest ODI batsman of all time,               behind Viv Richards. Later in his career, Tendulkar was a part of the Indian team that won the 2011 World Cup,               his first win in six World Cup appearances for India.He had previously been named \"Player of the Tournament\" at            the 2003 edition of the tournament, held in South Africa. In 2013, he was the only Indian cricketer included in              an all-time Test World XI named to mark the 150th anniversary of Wisden Cricketers' Almanack.",
+
+    "records":[
+        {"awardName" : "Most One Day Internationals", "awardValue":"463"},
+        {"awardName": "Most Fours", "awardValue":"2016"},
+        {"awardName": "First to score double 100", "awardValue":"200 not out"},
+        {"awardName": "Most Fifties in test", "awardValue":"68"},
+        {"awardName": "Most number of Test runs", "awardValue":"15921"},
+        {"awardName": "Most Centuries in World Cup", "awardValue":"6"},
+        {"awardName": "Most ODI Centuries", "awardValue":"49"},
+        {"awardName": "Longest ODI Career", "awardValue":"22 Years 91 days"},
+        {"awardName": "Most Man of the Match award", "awardValue":"62"},
+        {"awardName": "Most man of the series awards", "awardValue":"15"}
+    ]
+   
+}
